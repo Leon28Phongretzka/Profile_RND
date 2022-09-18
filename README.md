@@ -8,10 +8,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 💻 **I'm Storm_X.**
-- 👀 **I’m interested in C\C++, Dart and Python language.**
+- 💻 **I'm RND_Grzkt.**
+- 👀 **I’m interested in C/C++ and Python language.**
 - 🌱 **I’m currently learning everything.**
-- ✌ **This is my website** [http://stormx.software](https://www.stormx.software)
 
 ## 🚀 Languages and Tools:
 
