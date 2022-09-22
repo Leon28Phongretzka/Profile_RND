@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Grzkt</h1>
 <br/>
 <p align="center">
-     <a href="https://www.facebook.com/thenews.of.bayern"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8E1AF7&width=1000&lines=Legends+Live+Forever+But+Rebel+Never+Die" alt="Typing SVG" /></a>
+     <a href="https://www.facebook.com/thenews.of.bayern"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8E1AF7&width=1000&lines=Legends+Live+Forever+But+Rebels+Never+Die" alt="Typing SVG" /></a>
  </p>
 
 
