@@ -36,5 +36,5 @@
 </p>
 ## 🎵Music
 
-[![spotify-github-profile](https://www.djhardwell.com)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://open.spotify.com/track/2GHD6eBLzyupwqjvmYWrGZ?si=643a2f02b1e44a97)](https://github.com/kittinan/spotify-github-profile)
 
