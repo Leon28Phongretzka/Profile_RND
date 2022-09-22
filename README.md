@@ -34,7 +34,8 @@
   <a href="https://www.facebook.com/pg.8.rzk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuanpluss.stormX" height="30" width="40" /></a>    
   <a href="https://www.instagram.com/p.8.rzk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuanpluss02" height="30" width="40" /></a>
 </p>
+
 ## 🎵Music
 
-[![spotify-github-profile](https://open.spotify.com/track/2GHD6eBLzyupwqjvmYWrGZ?si=643a2f02b1e44a97)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zvpx9cjp3h574v2gc7av8sbun&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
