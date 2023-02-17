@@ -13,8 +13,10 @@
 - 🌱 **I’m currently learning everything.**
 
 ## GitHub Streak
-<p>
-     <img align="center" src="https://streak-stats.demolab.com?user=Leon28Phongretzka&theme=Javascript-dark">
+<p align="center">
+    <a href="https://github.com/Tuanpluss02/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=Leon28Phongretzka&theme=Javascript-dark&hide_border=true&border_radius=4)"/>
+    </a>
 </p>
 
 ## 🚀 Languages/Frameworks and Tools:
