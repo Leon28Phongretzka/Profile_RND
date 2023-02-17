@@ -13,7 +13,9 @@
 - 🌱 **I’m currently learning everything.**
 
 ## GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Leon28Phongretzka&theme=Javascript-dark)](https://git.io/streak-stats)
+<p>
+     <img align="center" src="https://streak-stats.demolab.com?user=Leon28Phongretzka&theme=Javascript-dark">
+</p>
 
 ## 🚀 Languages/Frameworks and Tools:
 
@@ -23,9 +25,7 @@
      <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Leon28Phongretzka/Leon28Phongretzka/22c78328a95910b6144de839d37466c84ca709c2/javascript-logo.svg" alt="js" width="48" height="48"/> </a> 
      <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Leon28Phongretzka/Leon28Phongretzka/blob/main/1174949_js_react%20js_logo_react_react%20native_icon.png?raw=true" alt="reactjs" width="48" height="48"/> </a> 
      <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/> </a>
-<!--      <a href="https://dart.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/82562559/188296010-65e9f026-ae0d-444e-ad7c-bda260960d82.png" alt="Dart" width="40" height="40"/> </a>
-     <a href="https://flutter.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/82562559/188295899-a6caaa1f-5f3b-4f50-90fa-12099bf9ec54.png" alt="flutter" width="40" height="40"/> </a>
-          <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> -->
+     
  </p>
 <br/>
 
