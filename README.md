@@ -18,8 +18,11 @@
     <a href="https://github.com/Tuanpluss02/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=Leon28Phongretzka&theme=Javascript-dark&hide_border=true&border_radius=4)"/>
     </a>
-    <img src="[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)">
 </p>
+<p align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon28Phongretzka&theme=tokyonight">
+</p>
+
 
 ## 🚀 Languages/Frameworks and Tools:
 
