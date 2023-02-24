@@ -39,7 +39,7 @@
 ## 🎵Hardstyle in da Spotify
 
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kpmj4rucelavwcbdnoqd2z2fvu&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=true">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kpmj4rucelavwcbdnoqd2z2fvu&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false">
 </p>
 
 
