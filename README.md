@@ -8,8 +8,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 💻 **I'm RND_Do'mine.**
-- 👀 **I’m interested in C/C++ and Python language.**
+- 💻 **I'm Elite Vilnr.**
+- 👀 **I’m interested in Web Developer.**
 - 🌱 **I’m currently learning everything.**
 - ⬆️ **My portfolio: https://leon28phongretzka.github.io/My_Portfolio/**
 
