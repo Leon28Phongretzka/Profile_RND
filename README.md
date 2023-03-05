@@ -11,7 +11,7 @@
 - 💻 **I'm Elite Vilnr.**
 - 👀 **I’m interested in Web Developer.**
 - 🌱 **I’m currently learning everything.**
-- ⬆️ **My portfolio: https://leon28phongretzka.github.io/My_Portfolio/**
+- ⬆️ **My portfolio: https://phongretzka-portfolio.netlify.app**
 
 ## GitHub Stats
 <p align="center">
