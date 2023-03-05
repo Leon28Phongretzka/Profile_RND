@@ -44,7 +44,7 @@
 
 <p align="center">   
   <a href="https://twitter.com/z_bayern_gzkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dercaucher" height="30" width="40" /></a>    
-  <a href="https://www.facebook.com/pg.8.rzk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eltvlinr" height="30" width="40" /></a>    
-  <a href="https://www.instagram.com/p.8.rzk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.8.rzk" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/S130Prj3t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eltvlinr" height="30" width="40" /></a>    
+  <a href="https://www.instagram.com/lg_28.elt_vnr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.8.rzk" height="30" width="40" /></a>
 
 
