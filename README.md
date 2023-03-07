@@ -15,7 +15,7 @@
 
 ## GitHub Stats
 <p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=Leon28Phongretzka&theme=Javascript-dark&hide_border=true&border_radius=4)"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=Leon28Phongretzka&theme=Javascript-dark&hide_border=true&border_radius=4"/>
     </a>
 </p>
 
