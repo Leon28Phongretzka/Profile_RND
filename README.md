@@ -10,7 +10,7 @@
 
 - 💻 **I'm Elite Vilnr.**
 - 👀 **I’m interested in Web Developer.**
-- 🌱 **I’m currently learning everything.**
+- 🌱 **I’m currently learning everything, especially ReactJS.**
 - ⬆️ **My portfolio: https://phongretzka-portfolio.netlify.app**
 
 ## GitHub Stats
