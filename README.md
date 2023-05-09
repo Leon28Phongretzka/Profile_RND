@@ -1,5 +1,5 @@
 # 31t_Vi1nR 
-<h1 align="center">Hi, I'm Elt Vilnr</h1>
+<h1 align="center">Hi, I'm Elite Vilnr</h1>
 
 <p align="center">
      <a href="https://www.facebook.com/thenews.of.bayern"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=1000&lines=Legends+Live+Forever+But+Rebels+Never+Die" alt="Typing SVG" /></a>
