@@ -28,6 +28,7 @@
      <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Leon28Phongretzka/Leon28Phongretzka/22c78328a95910b6144de839d37466c84ca709c2/javascript-logo.svg" alt="js" width="48" height="48"/> </a> 
      <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Leon28Phongretzka/Leon28Phongretzka/blob/main/1174949_js_react%20js_logo_react_react%20native_icon.png?raw=true" alt="reactjs" width="48" height="48"/> </a> 
      <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/> </a>
+     <a href="https://nextjs.org" target="_blank"> <img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" alt="nextjs" width="48" height="48"/> </a>
      
  </p>
 <br/>
