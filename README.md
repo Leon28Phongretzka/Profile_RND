@@ -4,7 +4,7 @@
 <p align="center">
      <a href="https://www.facebook.com/thenews.of.bayern"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=500&lines=Legends+Live+For3ver+But+Rebels+Never+D1e" alt="Typing SVG"/></a>
  </p>
-
+ 
 
 ## 🙋‍♂️ About Me
 
