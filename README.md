@@ -1,5 +1,6 @@
-# Cao Cao         
-<h1 align="center">Hi, I'm Cao Cao</h1>           
+# PhongZK
+
+<h1 align="center">Hi, I'm PhongZK</h1>           
     
 <p align="center">
      <a href="https://www.facebook.com/thenews.of.bayern"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFFF&width=500&lines=It+ain't+over,+it's+wild+rollercoaster" alt="Typing SVG"/></a>
@@ -8,7 +9,7 @@
 
 ## 🙋‍♂️ About Me  
 
-- 💻 **I'm Yōngzhèng.** 
+- 💻 **I'm PhongZK.** 
 - 👀 **I’m interested in Web Developer**
 - 🌱 **I’m currently learning everything, especially ReactJS and NextJS.**
 - ⬆️ **My portfolio: https://defensivetactics.tech**
@@ -29,6 +30,7 @@
      <a href="https://www.typescriptlang.org/branding/"> <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="48" height="48"></a>
      <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Leon28Phongretzka/Leon28Phongretzka/blob/main/1174949_js_react%20js_logo_react_react%20native_icon.png?raw=true" alt="reactjs" width="48" height="48"/> </a> 
      <a href="https://nextjs.org" target="_blank"> <img src="https://mikevpeeren.nl/_next/static/media/next_logo.79d7b4bd.png" alt="nextjs" width="48" height="48"/> </a>
+    <a href="https://supabase.com" target="_blank"><img src="https://trpc.io/img/logo.svg" alt='trpc' width="48" height="48"/></a>
      <a href="https://supabase.com" target="_blank"><img src="https://cdn-1.webcatalog.io/catalog/supabase/supabase-icon-filled-256.png?v=1675596357307" alt='spb' width="48" height="48"/></a>
      
  </p>
