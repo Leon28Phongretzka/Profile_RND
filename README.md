@@ -17,6 +17,7 @@
 ## GitHub Stats
 <p align="center">
         <img title="🔥 Get streak stats for your profile here: git.io/streak-stats" alt="streak" src="https://streak-stats.demolab.com?user=cao28cao&locale=de&theme=one-dark-pro&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500"/>
+        <img gap="2rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phong28zk" target="_blank"></img>
     </a>
 </p>
 
@@ -32,9 +33,10 @@
      <a href="https://nextjs.org" target="_blank"> <img src="https://mikevpeeren.nl/_next/static/media/next_logo.79d7b4bd.png" alt="nextjs" width="48" height="48"/> </a>
     <a href="https://supabase.com" target="_blank"><img src="https://trpc.io/img/logo.svg" alt='trpc' width="48" height="48"/></a>
      <a href="https://supabase.com" target="_blank"><img src="https://cdn-1.webcatalog.io/catalog/supabase/supabase-icon-filled-256.png?v=1675596357307" alt='spb' width="48" height="48"/></a>
-     
+    
  </p>
 <br/>
+
 
 ## 🎵Muzik in da Spotify
 
