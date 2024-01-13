@@ -16,8 +16,9 @@
 
 ## GitHub Stats
 <p align="center">
-        <img title="🔥 Get streak stats for your profile here: git.io/streak-stats" alt="streak" src="https://streak-stats.demolab.com?user=cao28cao&locale=de&theme=one-dark-pro&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500"/>
-        <img gap="2rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phong28zk" target="_blank"></img>
+        <img gap="2rem" src="https://github.com/phong28zk/github_stats/blob/master/generated/languages.svg#gh-dark-mode-only" target="_blank"/>
+    <img gap="2rem" src="https://github.com/phong28zk/github_stats/blob/master/generated/overview.svg#gh-dark-mode-only" target="_blank"/>
+    <img title="🔥 Get streak stats for your profile here: git.io/streak-stats" alt="streak" src="https://streak-stats.demolab.com?user=cao28cao&locale=de&theme=one-dark-pro&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500"/>
     </a>
 </p>
 
