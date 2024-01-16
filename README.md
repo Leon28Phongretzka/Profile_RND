@@ -30,7 +30,7 @@
      <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://user-images.githubusercontent.com/82562559/189319194-55e984e0-f0e5-4d2c-9676-48fc5b2ca815.png" alt="cplusplus" width="48" height="48"/> </a> 
      <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Leon28Phongretzka/Leon28Phongretzka/22c78328a95910b6144de839d37466c84ca709c2/javascript-logo.svg" alt="js" width="48" height="48"/> </a> 
      <a href="https://www.typescriptlang.org/branding/"> <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="48" height="48"></a>
-     <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Leon28Phongretzka/Leon28Phongretzka/blob/main/1174949_js_react%20js_logo_react_react%20native_icon.png?raw=true" alt="reactjs" width="48" height="48"/> </a> 
+     <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/640px-React_Logo_SVG.svg.png" alt="reactjs" width="48" height="48"/> </a> 
      <a href="https://nextjs.org" target="_blank"> <img src="https://mikevpeeren.nl/_next/static/media/next_logo.79d7b4bd.png" alt="nextjs" width="48" height="48"/> </a>
     <a href="https://supabase.com" target="_blank"><img src="https://trpc.io/img/logo.svg" alt='trpc' width="48" height="48"/></a>
      <a href="https://supabase.com" target="_blank"><img src="https://cdn-1.webcatalog.io/catalog/supabase/supabase-icon-filled-256.png?v=1675596357307" alt='spb' width="48" height="48"/></a>
