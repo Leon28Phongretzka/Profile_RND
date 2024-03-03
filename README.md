@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm PhongZK</h1>           
     
 <p align="center">
-     <a href="https://www.facebook.com/thenews.of.bayern"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFFF&width=500&lines=It+ain't+over,+it's+wild+rollercoaster" alt="Typing SVG"/></a>
+     <a href="https://www.facebook.com/thenews.of.bayern"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFFF&width=200&lines=Bruno+Guimarães" alt="Typing SVG"/></a>
  </p>
   
 
