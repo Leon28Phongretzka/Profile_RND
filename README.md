@@ -14,12 +14,6 @@
 - 🌱 **I’m currently learning everything, especially ReactJS and NextJS.**
 - ⬆️ **My portfolio: https://defensivetactics.tech**
 
-## GitHub Stats
-<p align="center">
-        <img gap="2rem" src="https://github.com/phong28zk/github_stats/blob/master/generated/languages.svg#gh-dark-mode-only" target="_blank"/>
-    <img gap="2rem" src="https://github.com/phong28zk/github_stats/blob/master/generated/overview.svg#gh-dark-mode-only" target="_blank"/>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=phong28zk&theme=prussian&border_radius=5" alt="GitHub Streak" /></a>
-</p>
 
 
 ## 🚀 Languages/Frameworks and Tools: 
