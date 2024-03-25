@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm PhongZK</h1>           
     
 <p align="center">
-     <a href="https://www.facebook.com/thenews.of.bayern"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFFF&width=200&lines=Bruno+Guimarães" alt="Typing SVG"/></a>
+     <a href="https://www.facebook.com/thenews.of.bayern"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFFF&width=500&lines=It+ain't+over,+it's+wild+rollercoaster" alt="Typing SVG"/></a>
  </p>
   
 
@@ -14,9 +14,13 @@
 - 🌱 **I’m currently learning everything, especially ReactJS and NextJS.**
 - ⬆️ **My portfolio: https://defensivetactics.tech**
 
-<img gap="2rem" src="https://github.com/phong28zk/github_stats/blob/master/generated/languages.svg#gh-dark-mode-only" target="_blank"/>
+## GitHub Stats
+<p align="center">
+        <img gap="2rem" src="https://github.com/phong28zk/github_stats/blob/master/generated/languages.svg#gh-dark-mode-only" target="_blank"/>
     <img gap="2rem" src="https://github.com/phong28zk/github_stats/blob/master/generated/overview.svg#gh-dark-mode-only" target="_blank"/>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=phong28zk&theme=prussian&border_radius=5" alt="GitHub Streak" /></a>
+    <img title="🔥 Get streak stats for your profile here: git.io/streak-stats" alt="streak" src="https://streak-stats.demolab.com?user=phong28zk&locale=de&theme=one-dark-pro&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500"/>
+    </a>
+</p>
 
 
 ## 🚀 Languages/Frameworks and Tools: 
@@ -49,4 +53,3 @@
   <a href="https://www.facebook.com/S130Prj3t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eltvlinr" height="30" width="40" /></a>    
   <a href="https://www.instagram.com/lg_28.elt_vnr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.8.rzk" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/lg28szp/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt='lg28szp' heigh='30' width='40'/></a>
-
