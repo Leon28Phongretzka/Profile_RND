@@ -1,11 +1,6 @@
 # PhongZK
 
 <h1 align="center">Hi, I'm PhongZK</h1>           
-    
-<p align="center">
-     <a href="https://www.facebook.com/thenews.of.bayern"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFFF&width=500&lines=It+ain't+over,+it's+wild+rollercoaster" alt="Typing SVG"/></a>
- </p>
-  
 
 ## 🙋‍♂️ About Me  
 
@@ -13,15 +8,6 @@
 - 👀 **I’m interested in Web Developer**
 - 🌱 **I’m currently learning everything, especially ReactJS and NextJS.**
 - ⬆️ **My portfolio: https://defensivetactics.tech**
-
-## GitHub Stats
-<p align="center">
-        <img gap="2rem" src="https://github.com/phong28zk/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only" target="_blank"/>
-    <img gap="2rem" src="https://github.com/phong28zk/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only" target="_blank"/>
-    <img title="🔥 Get streak stats for your profile here: git.io/streak-stats" alt="streak" src="https://streak-stats.demolab.com?user=phong28zk&locale=de&theme=one-dark-pro&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500"/>
-    </a>
-</p>
-
 
 ## 🚀 Languages/Frameworks and Tools: 
 
@@ -37,7 +23,6 @@
     
  </p>
 <br/>
-
 
 ## 🎵Muzik in da Spotify
 
