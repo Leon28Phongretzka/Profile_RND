@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm PhongZK</h1>           
     
 <p align="center">
-     <a href="https://www.facebook.com/thenews.of.bayern"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFFF&width=500&lines=It+ain't+over,+it's+wild+rollercoaster" alt="Typing SVG"/></a>
+     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFFF&width=500&lines=It+ain't+over,+it's+wild+rollercoaster" alt="Typing SVG"/>
  </p>
   
 
@@ -12,7 +12,7 @@
 - 💻 **I'm PhongZK.** 
 - 👀 **I’m interested in Web Developer**
 - 🌱 **I’m currently learning everything, especially ReactJS and NextJS.**
-- ⬆️ **My portfolio: https://defensivetactics.tech**
+- ⬆️ **My portfolio: https://phong28zk.me**
 
 ## GitHub Stats
 <p align="center">
