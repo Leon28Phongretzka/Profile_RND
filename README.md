@@ -1,6 +1,6 @@
-# PhongZK
+# Fn28Chen
 
-<h1 align="center">Hi, I'm PhongZK</h1>           
+<h1 align="center">Hi, I'm Fn28Chen</h1>           
     
 <p align="center">
      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFFF&width=500&lines=It+ain't+over,+it's+wild+rollercoaster" alt="Typing SVG"/>
