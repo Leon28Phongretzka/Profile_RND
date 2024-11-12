@@ -15,13 +15,10 @@
 - ⬆️ **My portfolio: https://phong28zk.me**
 
 ## GitHub Stats
-<p align="center">
-    <img title="🔥 Get streak stats for your profile here: git.io/streak-stats" alt="streak" src="https://streak-stats.demolab.com?user=fn28chen&theme=catppuccin-mocha&border_radius=5&card_width=500&card_height=200)](https://git.io/streak-stat"/>
-    <div align="center" display="flex">
-<!--         <img src="https://github-readme-stats.vercel.app/api?username=fn28chen&show_icons=true&bg_color=00000000" style="margin: 10px;"/> -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fn28chen&layout=compact&theme=onedark" style="margin: 10px;"/>
-    </div>
-</p>
+<div align="center" display="flex">
+    <img src="./github-metrics.svg" style="margin: 10px;"/>
+</div>
+
 
 
 ## 🚀 Languages/Frameworks and Tools: 
